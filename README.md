@@ -1,4 +1,3 @@
-```markdown
 # Xilinx XCKU040 120Pin 多功能视频扩展板
 
 > 基于 Xilinx Kintex UltraScale XCKU040 FPGA 板卡设计的 120Pin 多功能扩展板，集成 HDMI 输入、HDMI 输出、OV5640 摄像头接口及配套电平转换和保护电路，用于 FPGA 视频采集、处理与显示实验。
