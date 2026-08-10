@@ -265,6 +265,7 @@ HDMI TMDS 按 **100Ω 差分阻抗**进行设计。
 | 单线线宽 | 约 6.7 mil |
 | 差分间距 | 5 mil |
 | 参考层 | L2 GND |
+HDMI TMDS 差分对按照 100Ω 差分阻抗设计，基于 JLC04161H-7628 层叠计算，设计值约为 97.4Ω。
 
 TMDS 差分对在布局布线过程中重点保证：
 
@@ -274,7 +275,8 @@ TMDS 差分对在布局布线过程中重点保证：
 - 保持连续参考地
 - 避免跨越参考平面分割
 - ESD 器件靠近 HDMI 接口放置
-
+![JLC_HDMI TMDS Impedance](JLC_HDMI TMDS Impedance.png)
+![AD_HDMI TMDS Impedance](AD_HDMI TMDS Impedance.png)
 ---
 
 ## 并行视频总线
