@@ -277,9 +277,10 @@ TMDS 差分对在布局布线过程中重点保证：
 - ESD 器件靠近 HDMI 接口放置
 
 
-![JLC_HDMI TMDS Impedance](JLC_HDMI TMDS Impedance.png)
+![JLC_HDMI_TMDS_Impedance](JLC_HDMI_TMDS_Impedance.png)
 
-![AD_HDMI TMDS Impedance](AD_HDMI TMDS Impedance.png)
+![AD_HDMI_TMDS_Impedance](AD_HDMI_TMDS_Impedance.png)
+
 ---
 
 ## 并行视频总线
